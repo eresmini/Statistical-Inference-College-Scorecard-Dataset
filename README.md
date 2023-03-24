@@ -1,5 +1,7 @@
 # Statistical-Inference-College-Scorecard-Dataset
-
+  
+Project completed in December, 2020.  
+  
 ## Question of Interest
 *Is there a difference in student loan debt between for-profit private insitutions and non-profit private
 institutions?*  
